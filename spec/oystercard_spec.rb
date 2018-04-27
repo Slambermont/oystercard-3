@@ -1,7 +1,5 @@
 require 'oystercard'
 
-
-
 describe Oystercard do
 let(:entry_station) {double :entry_station}
 let(:exit_station) {double :exit_station}
